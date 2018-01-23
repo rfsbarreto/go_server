@@ -186,7 +186,7 @@
           "spec": {
             "containers": [
               {
-                "name": "django-psql-persistent",
+                "name": "goserver",
                 "image": " ",
                 "ports": [
                   {

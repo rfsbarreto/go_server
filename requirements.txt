@@ -5,3 +5,5 @@ djangorestframework==3.7
 django-debug-toolbar
 whitenoise
 psycopg2
+gunicorn
+sqlparse
