@@ -1,1 +1,1 @@
-A Django app
+A Django server to my App
